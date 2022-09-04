@@ -4,7 +4,7 @@ module.exports = {
     siteMetadata: {
         title: 'Roger Rodriguez',
         description:
-            'Roger Rodriguez is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+            'Roger Rodriguez is an experienced full-stack developer with a passion for solving complex problems using the latest technologies',
         siteUrl: 'https://roger926.netlify.app', // No trailing slash allowed!
         image: '/og.png', // Path to your image you placed in the 'static' folder
         twitterUsername: '@bchiang7',

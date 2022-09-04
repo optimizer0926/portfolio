@@ -7,8 +7,8 @@ module.exports = {
             url: 'https://github.com/optimizer55786',
         },
         {
-            name: 'Instagram',
-            url: 'https://www.instagram.com/bchiang7',
+            name: 'Skype',
+            url: 'https://join.skype.com/invite/wHXsqhs1dW9Y',
         },
         {
             name: 'Twitter',
@@ -18,10 +18,10 @@ module.exports = {
             name: 'Linkedin',
             url: 'https://www.linkedin.com/in/bchiang7',
         },
-        {
-            name: 'Codepen',
-            url: 'https://codepen.io/bchiang7',
-        },
+        // {
+        //     name: 'Codepen',
+        //     url: 'https://codepen.io/bchiang7',
+        // },
     ],
 
     navLinks: [
